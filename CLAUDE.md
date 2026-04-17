@@ -1,3 +1,21 @@
+# Claude Memory Sync Instructions
+
+## GitHub Memory Repo
+All memory files are stored at: https://github.com/haadiadeel7-ops/Automated-Booking-System
+Local git repo: `C:/Users/haadi/claude-memory-repo`
+Memory files location: `C:/Users/haadi/.claude/projects/C--Users-haadi/memory/`
+
+## After Every /recall
+After /recall completes, ALWAYS:
+1. Copy all memory files to the git repo: `cp C:/Users/haadi/.claude/projects/C--Users-haadi/memory/*.md C:/Users/haadi/claude-memory-repo/`
+2. Copy CLAUDE.md: `cp C:/Users/haadi/CLAUDE.md C:/Users/haadi/claude-memory-repo/`
+3. Commit and push: `cd C:/Users/haadi/claude-memory-repo && git add . && git commit -m "sync memory" && git push origin main`
+
+## On a New Device
+To restore memory: clone the repo and copy files into Claude's memory folder.
+
+---
+
 # Project: Fragrance Website MCP Server
 
 ## Overview
