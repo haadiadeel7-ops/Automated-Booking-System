@@ -3,6 +3,7 @@ name: Automated Booking System
 description: Vapi-based voice booking system for barbers; reschedule feature built in n8n, Vapi tools + prompt update still pending
 type: project
 originSessionId: f6b4a2b5-69c1-449a-b05b-6a403fecd6a5
+githubRepo: https://github.com/haadiadeel7-ops/Automated-Booking-System
 ---
 Voice-powered automated booking system using Vapi, initially for a barber shop, architected as a reusable template for any appointment-based business.
 
