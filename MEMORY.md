@@ -4,6 +4,7 @@
 - [Vapi tool response format](reference_vapi_tool_response_format.md) — Must return `{ results: [{ toolCallId, result }] }` or Vapi silently fails
 - [Fragrance Website MCP Server](project_fragrance_website.md) — **Discontinued**; CLAUDE.md has full research; kept as learning reference only
 
+- [PowerShell terminal](feedback_powershell.md) — user uses PowerShell; never use && to chain commands, give them separately
 - [Always minimize steps](feedback_speed.md) — fewest files/steps/tokens always, no extras
 - [Plan mode rules](feedback_planmode.md) — always list time + token estimates in plan mode, minimize both, think before acting
 - [Think before acting](feedback_think_before_acting.md)

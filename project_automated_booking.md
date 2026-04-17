@@ -4,6 +4,8 @@ description: Vapi-based voice booking system for barbers; reschedule feature bui
 type: project
 originSessionId: f6b4a2b5-69c1-449a-b05b-6a403fecd6a5
 githubRepo: https://github.com/haadiadeel7-ops/Automated-Booking-System
+gitLocalRepo: C:/Users/haadi/claude-memory-repo
+gitIdentity: user.email=support@druits.com, user.name=haadiadeel7-ops
 ---
 Voice-powered automated booking system using Vapi, initially for a barber shop, architected as a reusable template for any appointment-based business.
 
